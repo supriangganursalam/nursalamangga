@@ -1,6 +1,6 @@
 <!-- Main Footer -->
 <footer class="main-footer">
-    <strong>Copyright &copy; angga nursalam <a href="#">SI Admin</a>.</strong>
+    <strong>Copyright &copy; chindy patras <a href="#">SI Admin</a>.</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
       <b>Versi</b> 1

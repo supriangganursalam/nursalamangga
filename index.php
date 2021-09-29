@@ -62,7 +62,7 @@
                 </div>
               </div>
               <div class="card-body">
-               <h1>INDX 2 : Selamat Datang di Aplikasi Web angga nursalam</h1>
+               <h1>INDX 2 : Selamat Datang di Aplikasi Web chindy patras</h1>
               </div>
             </div>
             <!-- /.card -->
